@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Veeva Systems Assignment" >
+    <parameter name="browser" value="chrome" />
+    <test name="Features" parallel="classes" thread-count="1">
+        <classes>
+            <class name="org.assessment.testcaserunners.CoreProductRunner"></class>
+            <class name="org.assessment.testcaserunners.DP1Runner"></class>
+            <class name="org.assessment.testcaserunners.DP2Runner"></class>
+        </classes>
+    </test>
+</suite>

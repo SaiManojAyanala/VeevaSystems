@@ -1,0 +1,9 @@
+org/assessment/coreproductpageobjects/HomePageObjects.class
+org/assessment/utilities/FileUtilities.class
+org/assessment/utilities/Constants.class
+org/assessment/desiredproduct1pageobjects/DP1HomePageObjects.class
+org/assessment/desiredproduct2pageobjects/DP2HomePageObjects.class
+org/assessment/utilities/ReadProperties.class
+org/assessment/utilities/GenericMethods.class
+org/assessment/utilities/Driver.class
+org/assessment/coreproductpageobjects/MensPageObjects.class

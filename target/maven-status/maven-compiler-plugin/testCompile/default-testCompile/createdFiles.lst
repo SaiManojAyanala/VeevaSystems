@@ -1,0 +1,8 @@
+org/assessment/stepdefinitions/CP_MensPage.class
+org/assessment/stepdefinitions/DP1_HomePage.class
+org/assessment/stepdefinitions/DP2_HomePage.class
+org/assessment/testcaserunners/DP1Runner.class
+org/assessment/testcaserunners/DP2Runner.class
+org/assessment/testcaserunners/CoreProductRunner.class
+org/assessment/stepdefinitions/CP_HomePage.class
+org/assessment/hooks/Hooks.class
